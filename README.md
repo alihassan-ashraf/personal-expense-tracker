@@ -5,7 +5,7 @@ A Python-based interactive web application developed using **Streamlit** to reco
 ## 🚀 Live Demo
 
 Try the application here:  
-https://YOUR-STREAMLIT-LINK.streamlit.app/
+https://personal-expense-tracker-9ajsapkcttegtxvsniyzug.streamlit.app/
 
 ---
 
